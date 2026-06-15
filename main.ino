@@ -40,7 +40,7 @@
 #include <EEPROM.h>
 #include <WiFiUdp.h>
 #include <NTPClient.h>
-
+#include "secrets.h"
 // ===================== USER CONFIGURATION =====================
 
 const char* DEFAULT_SSID     = "YOUR_WIFI_NAME";
